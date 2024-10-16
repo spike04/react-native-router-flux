@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2015-present, Pavel Aksonov
+ * Copyright (c) 2015-present, Pavel Ranjan Dhunghana
  * All rights reserved.
  *
  * This source code is licensed under the BSD-style license found in the
